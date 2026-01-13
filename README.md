@@ -10,7 +10,7 @@ This project presents an **interactive Excel dashboard** designed to analyze hos
 
 ### 📊 Dashboard Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/healthcare_dashboard_overview.png)
 
 The dashboard provides a high-level overview of:
 - Total number of patients

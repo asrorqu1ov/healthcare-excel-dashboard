@@ -92,7 +92,7 @@ These tools allow users to filter and explore the data interactively.
 
 ### 📷 Filtered Dashboard Example
 
-![Dashboard Filtered](images/dashboard_filtered_view.png)
+![Dashboard Filtered](images/healthcare_dashboard_with_filters.png)
 
 ---
 
